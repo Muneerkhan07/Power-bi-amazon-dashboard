@@ -1,7 +1,7 @@
 # Power-bi-amazon-dashboard
 I developed a comprehensive data analysis project in Power BI, featuring multiple dashboards to derive insights. The process included data cleaning, data processing using DAX, and data visualization through interactive charts, KPIs, and filters for business intelligence.
 ##
-This is Amazonm Sale Analysis for understand the customers and grow more sales in year 2026 and  2027.
+This is Amazon Sale Analysis for understand the customers and grow more sales in year 2026 and  2027.
 ## Dataset used
 - <a href="https://github.com/Muneerkhan07/Power-bi-amazon-dashboard/blob/main/Amazon%20Sales%20Analysis.pbit">Dataset</a>
 
